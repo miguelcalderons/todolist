@@ -1,0 +1,3 @@
+Types of component: Small piece of code.
+    Presentation: They way things looks. Receive data.
+    Container: They way that things works. Provide data or behavior.
